@@ -30,7 +30,8 @@ twitter_username: emacs_the_man
 github_username:  lambert-p
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: lambert-p/jekyll-theme-lita
 plugins:
   - jekyll-feed
   - jekyll-archives
